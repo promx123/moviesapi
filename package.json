@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://react-moviexample.000webhostapp.com/",
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
